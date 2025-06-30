@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Romsarmiento0125!
+# 👋 Hi there, I'm Rom Paulo Sarmiento!
 
 Welcome to my GitHub profile! Here, you'll find a collection of my projects, experiments, and collaborations. I am passionate about learning, building, and sharing knowledge with the developer community.
 
